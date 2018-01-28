@@ -1,0 +1,23 @@
+{
+  "name": "pipertron-comp-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/pipertron-comp-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/pipertron-comp-core/issues"
+  },
+  "homepage": "https://github.com/stierma1/pipertron-comp-core#readme",
+  "dependencies": {
+    "pipertron": "^1.0.6",
+    "table": "^4.0.2"
+  }
+}
