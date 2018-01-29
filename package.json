@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/stierma1/pipertron-comp-core#readme",
   "dependencies": {
-    "pipertron": "^1.0.6",
     "table": "^4.0.2"
+  },
+  "devDependencies": {
+    "pipertron": "^1.0.6"
   }
 }
